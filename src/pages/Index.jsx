@@ -71,7 +71,7 @@ const Index = () => {
           Lifetime access for a one-time payment
         </Text>
         <Text fontWeight={700} fontSize={"4xl"}>
-          $XXX
+          $70
         </Text>
         <Stack mt={8} spacing={6} direction={"row"} justifyContent={"center"}>
           <Button
